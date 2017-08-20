@@ -1,0 +1,86 @@
+#TYPE Selected.System.Diagnostics.Process
+"Id","ProcessName","StartTime","CPU"
+"5692","aswidsagent",,
+"7524","audiodg","20/08/2017 16:41:01","0,2340015"
+"1416","AvastSvc",,
+"4192","AvastUI","20/08/2017 12:48:40","32,5886089"
+"4808","BTHSAmpPalService",,
+"2712","BTHSSecurityMgr",,
+"4540","CCleaner","20/08/2017 12:48:49","16,8793082"
+"1436","conhost",,
+"4484","conhost",,
+"7480","conhost","20/08/2017 16:28:23","1,1076071"
+"432","csrss",,
+"488","csrss",,
+"7912","dllhost",,
+"2932","dwm","20/08/2017 12:47:45","122,5387855"
+"2340","ETDCtrl","20/08/2017 12:48:13","9,0948583"
+"4272","ETDCtrlHelper","20/08/2017 12:48:43","2,1060135"
+"1904","EvtEng",,
+"2944","explorer","20/08/2017 12:47:46","156,8278053"
+"4448","fdhost",,
+"4300","fdlauncher",,
+"3212","GrooveMonitor","20/08/2017 12:48:17","0,6396041"
+"2352","hkcmd","20/08/2017 12:48:14","0,2028013"
+"5132","hpqbam08","20/08/2017 12:49:21","0,0936006"
+"5284","hpqgpc01","20/08/2017 12:49:30","0,3900025"
+"5068","hpqste08","20/08/2017 12:49:19","2,0436131"
+"4352","hpqtra08","20/08/2017 12:48:45","4,6488298"
+"4184","hpwuschd2","20/08/2017 12:48:39","0,0312002"
+"0","Idle",,
+"3032","igfxpers","20/08/2017 12:48:14","0,4368028"
+"3308","jusched","20/08/2017 12:48:37","0,0468003"
+"600","lsass",,
+"608","lsm",,
+"3496","mswinext","20/08/2017 12:48:22","24,3517561"
+"1248","Nitro_UpdateService",,
+"1216","NitroPDFDriverService10",,
+"1524","PandoraService",,
+"2988","PanProcess",,
+"2508","powershell","20/08/2017 16:28:23","2,184014"
+"1740","powershell_ise","20/08/2017 16:20:11","159,277021"
+"1996","PsiService_2",,
+"1972","RegSrvc",,
+"2092","ReportingServicesService",,
+"2168","SeaPort",,
+"6148","SearchFilterHost",,
+"5192","SearchIndexer",,
+"3540","SearchProtocolHost",,
+"592","services",,
+"320","smss",,
+"1668","spoolsv",,
+"2024","sqlservr",,
+"2380","sqlwriter",,
+"708","svchost",,
+"804","svchost",,
+"900","svchost",,
+"936","svchost",,
+"964","svchost",,
+"988","svchost",,
+"1292","svchost",,
+"1728","svchost",,
+"1868","svchost",,
+"1936","svchost",,
+"2400","svchost",,
+"3628","svchost",,
+"3768","svchost",,
+"3792","svchost",,
+"6384","svchost",,
+"4","System",,
+"4500","taskeng","20/08/2017 12:48:48","0,1092007"
+"7568","taskeng",,
+"3744","taskhost","20/08/2017 12:47:54","1,6848108"
+"6932","taskhost","20/08/2017 13:52:22","0,2184014"
+"3564","unsecapp",,
+"4840","unsecapp","20/08/2017 12:49:04","0,3900025"
+"3976","USBVaccine",,
+"496","wininit",,
+"552","winlogon",,
+"1424","wlanext",,
+"2456","WLIDSVC",,
+"2768","WLIDSVCM",,
+"3732","WmiPrvSE",,
+"4872","WmiPrvSE",,
+"1040","wmpnetwk",,
+"4584","WUDFHost",,
+"2552","ZeroConfigService",,
