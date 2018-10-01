@@ -1,0 +1,25 @@
+Este script genera un proceso en segundo plano(demonio),el cual creará un archivo fifo y un archivo de log,en los que al recibir un mensaje en el archivo fifo lo guardará en el archivo de log con el siguiente formato:
+
+  dia-mes-año  hora-minutos-segundos "mensaje"
+ 
+Habrá otro proceso cliente que escribirá los mensajes. 
+
+-Forma de ejecucion
+
+gcc -o "nombre de ejecutable" demonio.c
+gcc -o "nombre de ejecutable" cliente.c
+
+./"nombre de ejecucion del demonio" "nombre de la fifo con path relativo o absoluto" "nombre del archivo de log"
+
+./"nombre de ejecucion del cliente" "nombre de la fifo con path relativo o absoluto" "mensaje"
+
+
+-Ejemplo
+
+gcc -o demon demonio.c
+./demon fifo log
+gcc -o cli cliente.c
+./cli fifo "hola mundo"
+
+
+aclaraciones: no entiendo como validar por ejemplo cuando uso al cliente que el archivo sea la fifo y no el archivo de log pensando que es el fifo ya que si hago esto me dejará con formato erroneo el archivo de log .""""** si se quiere finalizar los procesos demonios, desde el cliente al mandar como mensaje    "FIN"   se cerrará la estructura fifo a la cual referencia ese cliente liberando los recursos y finalizando el proceso en segundo plano que creo esa estructura.**""""

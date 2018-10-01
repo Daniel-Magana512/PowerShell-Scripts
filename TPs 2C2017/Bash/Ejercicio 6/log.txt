@@ -1,0 +1,38 @@
+mar oct  3 21:44:58 ART 2017
+
+Porcentaje de memoria libre: 29.6737%
+Porcentaje de disco libre: 44%
+
+mar oct  3 21:45:07 ART 2017
+Proceso          PID   Memoria  Estado  Inicio  Usuariocompiz  1689  148900  Sl  16:38  maxi
+sublime_text     2357  75460    Ssl     17:03   maxi
+Xorg             1249  59040    Ss+     16:38   root
+evolution-calen  1887  56192    Sl      16:39   maxi
+nautilus         1828  52684    Sl      16:39   maxi
+gedit            9384  48668    Sl      21:41   maxi
+hud-service      1424  44580    Ssl     16:38   maxi
+unity-panel-ser  1438  42448    Ssl     16:38   maxi
+unity-settings-  1419  33840    Ssl     16:38   maxi
+nm-applet        1826  31212    Sl      16:39   maxi
+mar oct  3 21:45:31 ART 2017
+Proceso          PID   Memoria  Estado  Inicio  Usuariocompiz  1689  148900  Rl  16:38  maxi
+sublime_text     2357  75460    Ssl     17:03   maxi
+Xorg             1249  59040    Ss+     16:38   root
+evolution-calen  1887  56192    Sl      16:39   maxi
+nautilus         1828  52676    Sl      16:39   maxi
+gedit            9384  48668    Sl      21:41   maxi
+hud-service      1424  44580    Ssl     16:38   maxi
+unity-panel-ser  1438  42448    Ssl     16:38   maxi
+unity-settings-  1419  33840    Ssl     16:38   maxi
+nm-applet        1826  31212    Sl      16:39   maxi
+mar oct  3 21:45:32 ART 2017
+Proceso          PID   Memoria  Estado  Inicio  Usuariocompiz  1689  148900  Rl  16:38  maxi
+sublime_text     2357  75460    Ssl     17:03   maxi
+Xorg             1249  59040    Ss+     16:38   root
+evolution-calen  1887  56192    Sl      16:39   maxi
+nautilus         1828  52676    Sl      16:39   maxi
+gedit            9384  48668    Sl      21:41   maxi
+hud-service      1424  44580    Ssl     16:38   maxi
+unity-panel-ser  1438  42448    Ssl     16:38   maxi
+unity-settings-  1419  33840    Ssl     16:38   maxi
+nm-applet        1826  31212    Sl      16:39   maxi

@@ -1,0 +1,19 @@
+Para empezar ir a la carpeta del servidor y ejecutar
+
+"gcc main.c -o servidor -lrt -lpthread"
+
+Luego  "./servidor [numero de clientes mayor a 1]"
+
+
+Siguiendo la carpeta del cliente y ejecutar
+
+"gcc main.c -o cliente -lrt -lpthread"
+
+Luego  "./cliente [nombre del cliente]"
+
+El servidor se quedará a la espera de completar la cantidad de clientes en las distintas consolas, cuando se complete esa cantidad los clientes podrán mandarse mensajes. Para terminar la sesion del cliente, el mismo debe escribir "QUIT" como mensaje y saldra de la sala(no se contempla el caso de control+c).Si la cantidad de cliente es uno o menos el servidor se cerrará. El cliente que quede al escribir un mensaje y enviarlo le aparecerá el mensaje servidor cerrado. Si se desea cerrar el servidor habrá que oprimir "Control+c" para enviar la señal , cuando los clientes quieran enviar mensajes les figurará luego de enviarlos que el servido está cerrado...
+
+Un error que sale ejecutando devuelta el código es "Violacion de Segmento" a pesar de liberar todas las memorias compartidas y los semáforos y poner por consola ipcrm -a para eliminar por si acaso todos los recursos compartidos. Tengo que reiniciar la pc para volver a ejecutarlo pero no entiendo porque.
+
+
+

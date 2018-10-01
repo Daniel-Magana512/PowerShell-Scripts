@@ -1,0 +1,6 @@
+Hora de inicio: 31-10-2017 14:54:53
+Numero de thread: 3
+Cantidad de vocales: 40
+Cantidad de consonantes: 44
+Cantidad de otros caracteres: 30
+Hora de fin: 31-10-2017 14:54:53

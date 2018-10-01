@@ -1,0 +1,8 @@
+5678;sabana;1000
+6789;chocolate;400
+8901;cebolla;-3
+1230;pizza;-150
+1230;pizza;1000
+7980;lavandina;4567
+3456;matambre;100
+3456;matambre;-1000

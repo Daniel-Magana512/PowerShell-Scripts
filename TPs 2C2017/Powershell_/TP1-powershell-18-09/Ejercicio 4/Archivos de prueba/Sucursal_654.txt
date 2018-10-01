@@ -1,0 +1,7 @@
+4567;gaseosa;100
+5678;sabana;1000
+6789;chocolate;400
+8901;cebolla;-30000
+5678;sabana;1000
+5678;sabana;1000
+5678;sabana;1000
